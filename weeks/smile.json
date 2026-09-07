@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Smile",
+			"altsadmouse",
+			[
+				225,
+				225,
+				225
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"difficulties": "",
+	"weekCharacters": [
+		"sadmouse",
+		"bf",
+		"gf"
+	],
+	"storyName": "Smile",
+	"weekName": "Extra Song",
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}

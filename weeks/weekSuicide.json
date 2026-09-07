@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"Unhappy",
+			"sadmouse",
+			[
+				153,
+				153,
+				153
+			]
+		],
+		[
+			"Happy",
+			"happymouse",
+			[
+				102,
+				102,
+				102
+			]
+		],
+		[
+			"Really Happy",
+			"bipolarmouse",
+			[
+				13,
+				13,
+				13
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"difficulties": "",
+	"weekCharacters": [
+		"sadmouse",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Sights of Hell",
+	"weekName": "The Sights of Hell",
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}
